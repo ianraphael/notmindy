@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notmindy
+- 👋 Hi, I’m @dZayre
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning html and css.
 - 💞️ I’m looking to collaborate on projects you have to make it better.
